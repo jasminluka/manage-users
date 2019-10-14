@@ -1,1 +1,34 @@
-
+[
+    {
+      id: 0o1,
+      name: 'Jasmin',
+      surname: 'Luka',
+      email: 'jasmin@gmail.com',
+      password: '123456',
+      "role-id": 1
+    },
+    {
+      id: 0o2,
+      name: 'Jeton',
+      surname: 'Luka',
+      email: 'jeton@gmail.com',
+      password: '123456',
+      "role-id": 2
+    },
+    {
+      id: 0o3,
+      name: 'Rei',
+      surname: 'Koleci',
+      email: 'rei@gmail.com',
+      password: '123456',
+      "role-id": 3
+    },
+    {
+      id: 0o4,
+      name: 'Amir',
+      surname: 'Suka',
+      email: 'amir@gmail.com',
+      password: '123456',
+      "role-id": 3
+    }
+  ]
